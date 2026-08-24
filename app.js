@@ -102,9 +102,9 @@ function setupMobileMenu() {
 function initDataStores() {
     // Default config values for AMZ
     const defaultConfig = {
-        phone: '+1 (555) 732-9904',
-        email: 'office@amzcarpentry.com',
-        address: '883 Industrial Blvd, Suite A, Portland, OR',
+        phone: '0843644017 / 0102134100',
+        email: 'Cubriane@gmail.com',
+        address: 'Lilongwe crescent street, Cosmo City Ext 2, South Africa, 2087',
         heroTitle: 'Crafting dreams into wood.',
         heroSubtitle: 'Quality general contracting, interior remodeling, custom carpentry, and outdoor structures. Serving our community with reliable craftsmanship and solid materials built to last.'
     };
